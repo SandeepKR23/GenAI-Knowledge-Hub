@@ -60,7 +60,7 @@ PINECONE_API_KEY="your_pinecone_key"
 ```
 
 # 📁 Project Structure
-
+```
 GENAI-KNOWLEDGE-HUB/
 ├── AstraDB_RAG/
 │   └── RAGStack.ipynb
@@ -74,7 +74,7 @@ GENAI-KNOWLEDGE-HUB/
 ├── Webcrawler/
 │   └── ScrapeGraphHAL_Guide.ipynb
 └── README.md
-
+```
 # 📝 License
 This project is licensed under the MIT License- see the LICENSE file for details.
 
