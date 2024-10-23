@@ -89,7 +89,7 @@ Special thanks to:
 - CS50AI course materials for knowledge graph concepts
 - Personal hands-on implementation and experimentation
 
-Project created and maintained by **Sandeep Kasinampalli Rajkumar**
+Project created and maintained by  **Sandeep Kasinampalli Rajkumar**
 
 # Connect with Me
 
