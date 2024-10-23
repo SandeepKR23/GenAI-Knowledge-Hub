@@ -6,20 +6,20 @@ A comprehensive toolkit for working with various databases and knowledge graph i
 
 **Web Crawling**
 
-Graph-based HAL (Hypertext Application Language) scraping
-Automated data extraction and processing
+- Graph-based HAL (Hypertext Application Language) scraping
+- Automated data extraction and processing
 
 **Knowledge Graphs**
 
-Healthcare-specific langchain implementation
-Customizable graph structures for domain-specific applications
+- Healthcare-specific langchain implementation
+- Customizable graph structures for domain-specific applications
 
 
 **MongoDB Integration**
 
-Basic MongoDB operations and RAG implementation
-Pinecone integration with real-time RAG pipeline
-Two-phase pipeline implementation for enhanced performance
+- Basic MongoDB operations and RAG implementation
+- Pinecone integration with real-time RAG pipeline
+- Two-phase pipeline implementation for enhanced performance
 
 **AstraDB RAG Integration**
 
