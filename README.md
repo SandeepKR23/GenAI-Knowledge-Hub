@@ -39,15 +39,20 @@ A comprehensive toolkit for working with various databases and knowledge graph i
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/GENAI-KNOWLEDGE-HUB.git
+git clone https://github.com/SandeepKR23/GenAI-Knowledge-Hub.git
 cd GENAI-KNOWLEDGE-HUB
 ```
+2. Created a environment and activate it
+```
+conda create -p venv python==3.11
+conda activate venv/
+```
 
-2. Install dependencies:
+3. Install dependencies:
 ```
 pip install -r requirements.txt
 ```
-3. Configure your environment variables in .env file:
+4. Configure your environment variables in .env file:
 ```
 ASTRADB_TOKEN="your_token"
 MONGODB_URI="your_mongodb_uri"
