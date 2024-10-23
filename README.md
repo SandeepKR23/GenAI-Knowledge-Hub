@@ -91,7 +91,6 @@ Special thanks to:
 
 Project created and maintained by  **Sandeep Kasinampalli Rajkumar**
 
-# Connect with Me
-
-[https://www.linkedin.com/in/john-doe](https://www.linkedin.com/in/sandeep-k-rajkumar/)
-[https://medium.com/@johndoe](https://medium.com/@sandeepkrajkumar)
+## Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/sandeep-k-rajkumar/)
+* [Medium](https://medium.com/@sandeepkrajkumar)
