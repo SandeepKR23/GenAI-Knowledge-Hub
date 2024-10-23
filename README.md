@@ -80,7 +80,18 @@ This project is licensed under the MIT License- see the LICENSE file for details
 
 # 🙏 Acknowledgments
 
-- AstraDB team for their excellent documentation
-- MongoDB community
-- Pinecone team for their API support
-- All contributors who have helped with the project
+Special thanks to:
+
+- LangChain documentation and community for RAG implementation insights
+- AstraDB team for their vector database documentation
+- MongoDB documentation for database integration knowledge
+- Pinecone documentation for vector search implementation
+- CS50AI course materials for knowledge graph concepts
+- Personal hands-on implementation and experimentation
+
+Project created and maintained by **Sandeep Kasinampalli Rajkumar**
+
+# Connect with Me
+
+[https://www.linkedin.com/in/john-doe](https://www.linkedin.com/in/sandeep-k-rajkumar/)
+[https://medium.com/@johndoe](https://medium.com/@sandeepkrajkumar)
