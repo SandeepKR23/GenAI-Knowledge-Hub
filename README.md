@@ -80,7 +80,7 @@ This project is licensed under the MIT License- see the LICENSE file for details
 
 # 🙏 Acknowledgments
 
-AstraDB team for their excellent documentation
-MongoDB community
-Pinecone team for their API support
-All contributors who have helped with the project
+- AstraDB team for their excellent documentation
+- MongoDB community
+- Pinecone team for their API support
+- All contributors who have helped with the project
