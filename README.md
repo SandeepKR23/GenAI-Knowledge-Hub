@@ -26,6 +26,12 @@ A comprehensive toolkit for working with various databases and knowledge graph i
 - Implementation of Retrieval-Augmented Generation (RAG) with AstraDB
 - Optimized stack operations for efficient data retrieval
 
+**Finetune**
+
+- Finetune llama 2
+- Finetune Distillbert
+- Quantization
+
 
 # 📋 Prerequisites
 
