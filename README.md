@@ -32,6 +32,10 @@ A comprehensive toolkit for working with various databases and knowledge graph i
 - Finetune Distillbert
 - Quantization
 
+**Nominatim**
+
+- Nominatim Geo data
+
 
 # 📋 Prerequisites
 
