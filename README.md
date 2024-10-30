@@ -34,7 +34,7 @@ A comprehensive toolkit for working with various databases and knowledge graph i
 
 **Nominatim**
 
-- Nominatim Geo data [Medium Blog: Nominatim Geo data](https://medium.com/@sandeepkrajkumar/mapping-the-world-with-nominatim-a-python-journey-in-geojson-visualization-1940a4192abe)
+- Nominatim Geo data. [Medium Blog: Nominatim Geo data](https://medium.com/@sandeepkrajkumar/mapping-the-world-with-nominatim-a-python-journey-in-geojson-visualization-1940a4192abe)
 
 
 
